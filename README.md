@@ -1,4 +1,4 @@
-<h2>Minhas infos</h2>
+## Prazer sou o henri!
 <hr>
 <p>>Olá prazer me chamo henri eu sou um simples desenvolvedor,
 Eu atualemente crio projetos utilizando o [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) como linguagem principal em meus projetos.
