@@ -15,3 +15,5 @@ Atualmente eu sou desenvolvedor de uma bot para discord chamada [Star Gaby](http
 
 [![Lingaugens](https://github-readme-stats.vercel.app/api?username=eohenri&show_icons=true&theme=dark)](https://github.com/eohenri/github-readme-stats)
 
+![Snake animation](https://github.come/ohenri2/eohenri/blob/output/github-contribution-grid-snake.svg)
+
