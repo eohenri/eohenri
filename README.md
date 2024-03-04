@@ -12,5 +12,5 @@ Atualmente eu sou desenvolvedor de uma bot para discord chamada [Star Gaby](http
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-[![mynameismenta's GitHub stats](https://github-readme-stats.vercel.app/api?username=eohenri&show_icons=true&theme=dark)](https://github.com/mynameismenta/github-readme-stats)
+[![Lingaugens](https://github-readme-stats.vercel.app/api?username=eohenri&show_icons=true&theme=dark)](https://github.com/eohenri/github-readme-stats)
 
