@@ -2,7 +2,7 @@
 <hr>
 <p>>Olá prazer me chamo henri eu sou um simples desenvolvedor,
 Eu atualemente crio projetos utilizando o <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a> como linguagem principal em meus projetos.
-Eu pretendo futuramente aprender mais linguagens de programção como exemplo o  <a href="https://www.typescriptlang.org/">TypeScript</a>> e  <a href="https://www.python.org/">Python</a>a> para não ficar para sempre na mesma linguagem de programação.
+Eu pretendo futuramente aprender mais linguagens de programção como exemplo o  <a href="https://www.typescriptlang.org/">TypeScript</a>> e  <a href="https://www.python.org/">Python</a> para não ficar para sempre na mesma linguagem de programação.
 Atualmente eu sou desenvolvedor de uma bot para discord chamada  <a href="https://discord.com/application-directory/1108562673899143168">Star Gaby</a> criada utilizando o  <a href="https://discordjs.guide/#before-you-begin">Discord.js</a> que está atualmente em mais de 350 servidores saiba mais sobre a Gaby no  <a href="https://discord.com/invite/533XETUMgp">servidor de suporte</a> dela.</p>
 <hr>
 <div style="display: inline_block"><br>
@@ -13,7 +13,7 @@ Atualmente eu sou desenvolvedor de uma bot para discord chamada  <a href="https:
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-[![Lingaugens](https://github-readme-stats.vercel.app/api?username=eohenri&show_icons=true&theme=dark)](https://github.com/eohenri/github-readme-stats)
+[![Lingaugens](https://github-readme-stats.vercel.app/api?username=eohenri&show_icons=true&theme=black)](https://github.com/eohenri/github-readme-stats)
 
 ![Snake animation](https://github.come/eohenri/eohenri/blob/output/github-contribution-grid-snake.svg)
 
