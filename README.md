@@ -20,5 +20,5 @@
 
 <hr>
 
-
-<img src="https://lanyard.cnrad.dev/api/1046838112833253486?idleMessage=Nenuma&atividade!">
+<a href="https://discord.com/users/1046838112833253486">
+  <img src="https://lanyard.cnrad.dev/api/1046838112833253486?idleMessage=Eu%20n%C3%A3o%20estou%20fazendo%20nada%20no%20momento!"> <br/>
