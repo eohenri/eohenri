@@ -1,9 +1,8 @@
 ## Prazer sou o henri!
 <hr>
-<p>Olá prazer me chamo henri eu sou um simples desenvolvedor,
-Eu atualemente crio projetos utilizando o <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a> como linguagem principal em meus projetos.
-Eu pretendo futuramente aprender mais linguagens de programção como exemplo o  <a href="https://www.typescriptlang.org/">TypeScript</a> e  <a href="https://www.python.org/">Python</a> para não ficar para sempre na mesma linguagem de programação.
-Atualmente eu sou desenvolvedor de uma bot para discord chamada  <a href="https://discord.com/application-directory/1108562673899143168">Star Gaby</a> criada utilizando o  <a href="https://discordjs.guide/#before-you-begin">Discord.js</a> que está atualmente em mais de 350 servidores saiba mais sobre a Gaby no  <a href="https://discord.com/invite/533XETUMgp">servidor de suporte</a> dela.</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Caroline;I'm+27+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+
 <hr>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
