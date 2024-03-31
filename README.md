@@ -20,3 +20,7 @@
 
 <hr>
 
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eohenri&title_color=f9829b&text_color=fff&icon_color=fff&bg_color=181818" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eohenria&show_icons=true&title_color=f9829b&text_color=fff&icon_color=f9829b&bg_color=181818" />
+</div>
