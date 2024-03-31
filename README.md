@@ -20,4 +20,4 @@
 
 <hr>
 
-
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=eohenrii&show_icons=true&theme=radical&layout=compact" />
