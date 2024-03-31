@@ -1,7 +1,7 @@
 
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=4900E0&center=true&vCenter=true&random=false&width=1000&lines=Welcome+to+my+profile!;Hello%2C+my+name+is+Henri!;Star+Gaby+Developer;I'm+from+Brazil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=5711c0&center=true&vCenter=true&random=false&width=1000&lines=Welcome+to+my+profile!;Hello%2C+my+name+is+Henri!;Star+Gaby+Developer;I'm+from+Brazil)](https://git.io/typing-svg)
 
 <hr>
 <div style="display: inline_block"><br>
