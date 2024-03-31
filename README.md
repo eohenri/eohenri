@@ -13,6 +13,6 @@ Atualmente eu sou desenvolvedor de uma bot para discord chamada  <a href="https:
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eohenri&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eohenri&show_icons=true&theme=transparent)
 
 
