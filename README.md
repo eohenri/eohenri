@@ -13,7 +13,5 @@ Atualmente eu sou desenvolvedor de uma bot para discord chamada  <a href="https:
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 <br>
-<img align="center" alt="Status" height="30" width="40" hsrc="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eohenri&show_icons=true&theme=transparent)">
-
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eohenri&bg_color=000000&color=ffffff&line=5711c0&point=e8e8e8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
