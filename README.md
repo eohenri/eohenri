@@ -18,6 +18,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eohenri&theme=midnight-purple&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
-
 <hr>
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1046838112833253486)](https://discord.com/users/1046838112833253486)
+
+<hr>
