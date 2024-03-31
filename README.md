@@ -1,7 +1,7 @@
 
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=5711c0&center=true&vCenter=true&random=false&width=1000&lines=Welcome+to+my+profile!;Hello%2C+my+name+is+Henri!;Star+Gaby+Developer;I+love+programming)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=5711c0&center=true&vCenter=true&random=false&width=1000&lines=Welcome+to+my+profile!;Hello%2C+my+name+is+Henri!;Star+Gaby+Developer;I+love+programming;Byee)](https://git.io/typing-svg)
 
 <hr>
 <div style="display: inline_block"><br>
@@ -13,4 +13,11 @@
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eohenri&bg_color=000000&color=ffffff&line=5711c0&point=e8e8e8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eohenri&theme=5711c0-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+
+</div>
 
