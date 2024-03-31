@@ -21,3 +21,5 @@
 <hr>
 
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=eohenri&show_icons=true&theme=radical&layout=compact" />
+
+<img src="https://lanyard.cnrad.dev/api/1046838112833253486?idleMessage=Eu%20n%C3%A3o%20estou%20fazendo%20nada%20no%20momento!">
