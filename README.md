@@ -16,7 +16,8 @@
 
 <hr>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eohenri&theme=purple-black&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carolbarbosa101&theme=violet-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+
 
 <hr>
 
