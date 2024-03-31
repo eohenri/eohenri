@@ -1,7 +1,7 @@
 
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=5711c0&center=true&vCenter=true&random=false&width=1000&lines=Welcome+to+my+profile!;Hello%2C+my+name+is+Henri!;Star+Gaby+Developer;I+love+programming;Byee)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=5711c0&center=true&vCenter=true&random=false&width=1000&lines=Welcome+to+my+profile!;Hello%2C+my+name+is+Henri!;Star+Gaby+Developer;I+love+programming;Byee!;Thank+you+for+visiting+my+profile!)](https://git.io/typing-svg)
 
 <hr>
 <div style="display: inline_block"><br>
@@ -20,4 +20,3 @@
 
 <hr>
 
-<img src="https://lanyard.cnrad.dev/api/1046838112833253486?idleMessage=Eu%20n%C3%A3o%20estou%20fazendo%20nada%20no%20momento!">
